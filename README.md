@@ -25,7 +25,7 @@ A formal report detailing the theory, implementation, results, and conclusions i
 ![CNN Diagram part 2](images/CNN_1_part2.png)
 > The three 'heads' of the CNN where the images orientation funnels it to a head.
 
-![results](images/confusion_matrix.pdf)
+![results](images/confusion_matrix-1.png)
 > Matrix of the true and model predicted tumour type, perfect accuracy would be the diagonals at 100%.
 
 
