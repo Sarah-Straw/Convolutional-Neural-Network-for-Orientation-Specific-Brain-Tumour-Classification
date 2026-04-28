@@ -9,6 +9,23 @@ Dataset can be found here: https://www.kaggle.com/datasets/denizkavi1/brain-tumo
 ## Report
 
 A formal report detailing the theory, implementation, results, and conclusions is included here:  
+ [`Sarah_Straw_CNN_report.pdf`](./images/CNN_Report.pdf)
 
-## Results
+
+---
+
+## Output Plots
+
+![Orientation Examples](images/orientation_examples.png)
+> MRI scans and their model predicted orientation to validate the model.
+
+![CNN Diagram part 1](images/CNN_diagram_part1.png)
+> Diagram showing the first layers of the CNN with dimentions below.
+
+![CNN Diagram part 2](images/CNN_1_part2.png)
+> The three 'heads' of the CNN where the images orientation funnels it to a head.
+
+![results](images/confusion_matrix.png)
+> Matrix of the true and model predicted tumour type, perfect accuracy would be the diagonals at 100%.
+
 
